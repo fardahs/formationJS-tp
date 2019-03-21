@@ -1,0 +1,13 @@
+#conteneur{
+      display:flex;
+}
+
+img{
+    margin-right:10px;
+    width: 100px;
+}
+
+p{
+    justify-content: center;
+    font-size: 30px;
+}
